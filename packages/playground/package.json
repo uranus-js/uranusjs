@@ -1,0 +1,16 @@
+{
+    "name": "@uranusjs/playground",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "vite",
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
